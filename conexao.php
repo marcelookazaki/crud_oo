@@ -11,7 +11,7 @@ class Conexao{
 		$this->servidor = "localhost";
 		$this->banco = "crudoo";
 		$this->usuario = "root"; 
-		$this->senha = "";
+		$this->senha = "Ma_01961097";
 	}
 	//METODO PARA CONECTAR
 	public function conectar(){
